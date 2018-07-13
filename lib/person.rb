@@ -6,4 +6,4 @@ class Person
     @alan_kay = alan_kay
   end 
 end 
-person_one = Person.new()
+person_one = Person.new("adele_goldberg", "alan_kay")
