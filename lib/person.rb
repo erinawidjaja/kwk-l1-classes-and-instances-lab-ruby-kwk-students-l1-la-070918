@@ -7,4 +7,5 @@ class Person
   end 
 end 
 person_one = Person.new("adele_goldberg", "alan_kay")
-puts person_one
+puts person_one.adele_goldberg
+puts person_one.alan_kay
