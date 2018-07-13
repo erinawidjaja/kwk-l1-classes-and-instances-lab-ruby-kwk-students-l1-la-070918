@@ -6,3 +6,4 @@ class Person
     @alan_kay = alan_kay
   end 
 end 
+person_one = 
